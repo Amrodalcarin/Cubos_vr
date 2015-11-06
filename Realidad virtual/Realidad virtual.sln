@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realidad virtual.CSharp.Plugins", "Realidad virtual.CSharp.Plugins.csproj", "{C880096D-8BFE-C1F3-EA58-943B8B95DCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realidad virtual.CSharp", "Realidad virtual.CSharp.csproj", "{F9ADBDA3-14D0-89E3-77DA-C70D054CAB71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realidad virtual.CSharp.Editor", "Realidad virtual.CSharp.Editor.csproj", "{8EA71E9E-6997-D20E-4485-84670B35872D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C880096D-8BFE-C1F3-EA58-943B8B95DCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C880096D-8BFE-C1F3-EA58-943B8B95DCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C880096D-8BFE-C1F3-EA58-943B8B95DCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C880096D-8BFE-C1F3-EA58-943B8B95DCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9ADBDA3-14D0-89E3-77DA-C70D054CAB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ADBDA3-14D0-89E3-77DA-C70D054CAB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ADBDA3-14D0-89E3-77DA-C70D054CAB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ADBDA3-14D0-89E3-77DA-C70D054CAB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA71E9E-6997-D20E-4485-84670B35872D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA71E9E-6997-D20E-4485-84670B35872D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA71E9E-6997-D20E-4485-84670B35872D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA71E9E-6997-D20E-4485-84670B35872D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
